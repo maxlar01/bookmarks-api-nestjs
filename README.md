@@ -39,5 +39,6 @@ yarn start:dev
 yarn test:e2e
 ```
 
+7. You can test the API endpoints manually using [Insomnia](https://insomnia.rest/), [Postman](https://www.postman.com/) or any other similar tool you prefer.
 ## License 🔑
 You can read more about it [here](https://choosealicense.com/licenses/mit/).
